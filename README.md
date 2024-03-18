@@ -1,2 +1,1 @@
-# featureLab-sample
-featureLab-sample
+# featureLab
